@@ -1,11 +1,11 @@
 ﻿#!/bin/bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'7cde5878-1d43-4f3d-a2af-4ef319cc8bd0'}
+WSPATH=${WSPATH:-'68dcd6ed-f915-4d62-a7c9-f0115e6982ce'}
+UUID=${UUID:-'68dcd6ed-f915-4d62-a7c9-f0115e6982ce'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://material-excited-legume.glitch.me
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
